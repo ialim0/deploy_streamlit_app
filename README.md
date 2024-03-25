@@ -19,7 +19,6 @@ git clone https://github.com/neo4j-partners/hands-on-lab-neo4j-and-bedrock.git
 cd hands-on-lab-neo4j-and-bedrock
 
 
-
 ## Step 2: Deploy Neo4j on AWS
 
 Follow the instructions provided in the GitHub repository under "Lab 1 - Deploy Neo4j" to deploy Neo4j on AWS.

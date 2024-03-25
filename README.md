@@ -108,7 +108,10 @@ After deploying your Streamlit app, test it by accessing the public IP address o
 
 ## Conclusion
 
-## Thanks Nurman !
+Conclusion
+You have successfully deployed your Streamlit application on AWS! By following this guide, you've set up the necessary infrastructure, installed dependencies, and configured access to your app. Whether you're using the public IP address or a custom domain name, your Streamlit app should now be accessible and running smoothly on AWS.
+
+Thank you for choosing this guide to deploy your Streamlit app on AWS. If you have any further questions or need additional assistance, please don't hesitate to reach out.
 
 
  .

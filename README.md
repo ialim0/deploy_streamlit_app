@@ -1,5 +1,5 @@
 
-# Deploying Streamlit App on AWS
+# Deploying Streamlit App on AWS & Neo4j
 
 This guide outlines the process for deploying a Streamlit application on AWS, including setting up the necessary AWS infrastructure, deploying the Neo4j database, and ensuring the application is accessible.
 

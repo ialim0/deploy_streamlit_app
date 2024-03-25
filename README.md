@@ -1,4 +1,3 @@
-To improve the structure and clarity of the provided README, we can reorganize the content and fill in any missing steps. Here is a revised version of the README for deploying the Streamlit app on AWS:
 
 # Deploying Streamlit App on AWS
 
